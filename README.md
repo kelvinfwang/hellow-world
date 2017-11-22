@@ -1,2 +1,2 @@
 # hellow-world
-just another repository
+The the first toturial of GitHub.
